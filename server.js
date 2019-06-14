@@ -1,6 +1,5 @@
 // init project
-
-// http://expressjs.com/en/starter/static-files.html
+// tktk
 
 // init sqlite db
 var fs = require('fs');
